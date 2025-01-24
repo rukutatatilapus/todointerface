@@ -1,5 +1,10 @@
 {
-  "dev": "vite dev",
+  "name": "svelte-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite dev"
+  },
   "devDependencies": {
     "vite": "^6.0.11"
   }
