@@ -1,0 +1,6 @@
+{
+  "dev": "vite dev",
+  "devDependencies": {
+    "vite": "^6.0.11"
+  }
+}
